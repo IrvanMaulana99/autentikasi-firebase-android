@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "731133402268",
+    "firebase_url": "https://evoa-rei.firebaseio.com",
+    "project_id": "evoa-rei",
+    "storage_bucket": "evoa-rei.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731133402268:android:19dd6a8c7bae54542ce159",
+        "android_client_info": {
+          "package_name": "com.irvan.evoa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731133402268-qdb2s2p1e0ocv601782uhi8ic58j6oue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYv2E5Q5FzEfG4zHStT4aCFI5j2htPV0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731133402268-qdb2s2p1e0ocv601782uhi8ic58j6oue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
